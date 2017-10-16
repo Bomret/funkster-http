@@ -26,7 +26,7 @@
     "semantic-release": "semantic-release pre && npm run release && semantic-release post"
   },
   "dependencies": {
-    "@types/node": "^7.0.3",
+    "@types/node": "^8.0.37",
     "finalhandler": "^1.0.0",
     "funkster-core": "^0.8.7",
     "parseurl": "^1.3.1",
